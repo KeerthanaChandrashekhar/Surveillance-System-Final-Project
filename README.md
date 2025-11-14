@@ -18,7 +18,7 @@ This project focuses on **object detection, anomaly detection, and privacy-prese
 
 ## 🔹 How to Run
 ```bash
-git clone https://github.com/bibhuda/VSS.git
-cd VSS
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/KeerthanaChandrashekhar/Surveillance-System-Final-Project.git
+cd Surveillance-System-Final-Project
+pip install -r requirements.txt  
+python main.py                    
